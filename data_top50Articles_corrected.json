@@ -1,0 +1,954 @@
+{
+    "links": [
+        {
+            "authors": "Feely R., Fabry V.",
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "authors": "Feely R.",
+            "source": 0,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "authors": "Doney S.",
+            "source": 0,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "authors": "Doney S.",
+            "source": 0,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "authors": "Doney S.",
+            "source": 0,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "authors": "Fabry V.",
+            "source": 0,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "authors": "Feely R.",
+            "source": 0,
+            "target": 43,
+            "value": 1
+        },
+        {
+            "authors": "Feely R.",
+            "source": 1,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "authors": "Fabry V.",
+            "source": 1,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "authors": "Feely R.",
+            "source": 1,
+            "target": 43,
+            "value": 1
+        },
+        {
+            "authors": "Riebesell U.",
+            "source": 2,
+            "target": 26,
+            "value": 1
+        },
+        {
+            "authors": "Riebesell U., Zondervan I., Rost B.",
+            "source": 2,
+            "target": 36,
+            "value": 3
+        },
+        {
+            "authors": "Riebesell U.",
+            "source": 2,
+            "target": 42,
+            "value": 1
+        },
+        {
+            "authors": "Riebesell U.",
+            "source": 2,
+            "target": 44,
+            "value": 1
+        },
+        {
+            "authors": "Rost B.",
+            "source": 2,
+            "target": 45,
+            "value": 1
+        },
+        {
+            "authors": "Lea D., Spero H.",
+            "source": 3,
+            "target": 32,
+            "value": 2
+        },
+        {
+            "authors": "Sabine C., Feely R.",
+            "source": 4,
+            "target": 43,
+            "value": 2
+        },
+        {
+            "authors": "Doney S.",
+            "source": 7,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "authors": "Doney S.",
+            "source": 7,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "authors": "Barry J.",
+            "source": 7,
+            "target": 35,
+            "value": 1
+        },
+        {
+            "authors": "Caldeira K.",
+            "source": 8,
+            "target": 47,
+            "value": 1
+        },
+        {
+            "authors": "Rickaby R.",
+            "source": 10,
+            "target": 45,
+            "value": 1
+        },
+        {
+            "authors": "Gattuso J.",
+            "source": 11,
+            "target": 15,
+            "value": 1
+        },
+        {
+            "authors": "Gattuso J.",
+            "source": 11,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "authors": "Gattuso J.",
+            "source": 11,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "authors": "Gattuso J.",
+            "source": 11,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "authors": "Lough J., De'ath G., Fabricius K.",
+            "source": 12,
+            "target": 13,
+            "value": 3
+        },
+        {
+            "authors": "Langdon C.",
+            "source": 12,
+            "target": 20,
+            "value": 1
+        },
+        {
+            "authors": "Langdon C.",
+            "source": 12,
+            "target": 33,
+            "value": 1
+        },
+        {
+            "authors": "Langdon C.",
+            "source": 12,
+            "target": 34,
+            "value": 1
+        },
+        {
+            "authors": "Gattuso J.",
+            "source": 15,
+            "target": 21,
+            "value": 1
+        },
+        {
+            "authors": "Kroeker K.",
+            "source": 15,
+            "target": 23,
+            "value": 1
+        },
+        {
+            "authors": "Gattuso J.",
+            "source": 15,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "authors": "Hendriks I., Duarte C.",
+            "source": 15,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "authors": "Gattuso J.",
+            "source": 15,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "authors": "Doney S.",
+            "source": 16,
+            "target": 22,
+            "value": 1
+        },
+        {
+            "authors": "Raymond P.",
+            "source": 16,
+            "target": 30,
+            "value": 1
+        },
+        {
+            "authors": "Alin S.",
+            "source": 16,
+            "target": 43,
+            "value": 1
+        },
+        {
+            "authors": "Rodgers K., Andersson A., Mackenzie F., Kuffner I., Jokiel P.",
+            "source": 17,
+            "target": 40,
+            "value": 5
+        },
+        {
+            "authors": "Andersson A., Mackenzie F.",
+            "source": 17,
+            "target": 49,
+            "value": 2
+        },
+        {
+            "authors": "Dixson D., Munday P.",
+            "source": 19,
+            "target": 46,
+            "value": 2
+        },
+        {
+            "authors": "Atkinson M., Langdon C.",
+            "source": 20,
+            "target": 33,
+            "value": 2
+        },
+        {
+            "authors": "Langdon C.",
+            "source": 20,
+            "target": 34,
+            "value": 1
+        },
+        {
+            "authors": "Gattuso J.",
+            "source": 21,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "authors": "Gattuso J.",
+            "source": 21,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "authors": "Hofmann G.",
+            "source": 23,
+            "target": 35,
+            "value": 1
+        },
+        {
+            "authors": "Gattuso J.",
+            "source": 25,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "authors": "Riebesell U.",
+            "source": 26,
+            "target": 36,
+            "value": 1
+        },
+        {
+            "authors": "Riebesell U.",
+            "source": 26,
+            "target": 42,
+            "value": 1
+        },
+        {
+            "authors": "Riebesell U.",
+            "source": 26,
+            "target": 44,
+            "value": 1
+        },
+        {
+            "authors": "Fine M.",
+            "source": 29,
+            "target": 48,
+            "value": 1
+        },
+        {
+            "authors": "Langdon C., Takahashi T.",
+            "source": 33,
+            "target": 34,
+            "value": 2
+        },
+        {
+            "authors": "Riebesell U.",
+            "source": 36,
+            "target": 42,
+            "value": 1
+        },
+        {
+            "authors": "Riebesell U.",
+            "source": 36,
+            "target": 44,
+            "value": 1
+        },
+        {
+            "authors": "Rost B.",
+            "source": 36,
+            "target": 45,
+            "value": 1
+        },
+        {
+            "authors": "Dupont S., Thorndyke M.",
+            "source": 38,
+            "target": 41,
+            "value": 2
+        },
+        {
+            "authors": "Andersson A., Mackenzie F.",
+            "source": 40,
+            "target": 49,
+            "value": 2
+        },
+        {
+            "authors": "Riebesell U.",
+            "source": 42,
+            "target": 44,
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "DOI": "10.1146/annurev.marine.010908.163834",
+            "abstract": "Rising atmospheric carbon dioxide (CO2), primarily from human fossil fuel combustion, reduces ocean pH and causes wholesale shifts in seawater carbonate chemistry. The process of ocean acidification is well documented in field data, and the rate will accelerate over this century unless future CO2 emissions are curbed dramatically. Acidification alters seawater chemical speciation and biogeochemical cycles of many elements and compounds. One well-known effect is the lowering of calcium carbonate saturation states, which impacts shell-forming marine organisms from plankton to benthic molluscs, echinoderms, and corals. Many calcifying species exhibit reduced calcification and growth rates in laboratory experiments under high-CO2 conditions. Ocean acidification also causes an increase in carbon fixation rates in some photosynthetic organisms (both calcifying and noncalcifying). The potential for marine organisms to adapt to increasing CO2 and broader implications for ocean ecosystems are not well known; both are high priorities for future research. Although ocean pH has varied in the geological past, paleo-events may be only imperfect analogs to current conditions.",
+            "authors": "Doney S., Fabry V., Feely R., Kleypas J.",
+            "group": 8,
+            "id": 0,
+            "name": "32175",
+            "nb": 1060,
+            "title1": "Ocean acidification: the other CO2 problem",
+            "title2": "Annual Reviews of Marine Science",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1093/icesjms/fsn048",
+            "abstract": "Oceanic uptake of anthropogenic carbon dioxide (CO2) is altering the seawater chemistry of the world's oceans with consequences for marine biota. Elevated partial pressure Of CO2 (PCO2) is causing the calcium carbonate saturation horizon to shoal in many regions, particularly in high latitudes and regions that intersect with pronounced hypoxic zones. The ability of marine animals, most importantly pteropod molluscs, foraminifera, and some benthic invertebrates, to produce calcareous skeletal structures is directly affected by seawater CO2 chemistry. CO2 influences the physiology of marine organisms as well through acid-base imbalance and reduced oxygen transport capacity. The few studies at relevant PCO2 levels impede our ability to predict future impacts on foodweb dynamics and other ecosystem processes. Here we present new observations, review available data, and identify priorities for future research, based on regions, ecosystems, taxa, and physiological processes believed to be most vulnerable to ocean acidification. We conclude that ocean acidification and the synergistic impacts of other anthropogenic stressors provide great potential for widespread changes to marine ecosystems.",
+            "authors": "Fabry V., Seibel B., Feely R., Orr J.",
+            "group": 6,
+            "id": 1,
+            "name": "5115",
+            "nb": 729,
+            "title1": "Impacts of ocean acidification on marine fauna and ecosystem processes",
+            "title2": "ICES Journal of Marine Science",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1038/35030078",
+            "abstract": "The formation of calcareous skeletons by marine planktonic organisms and their subsequent sinking to depth generates a continuous rain of calcium carbonate to the deep ocean and underlying sediments. This is important in regulating marine carbon cycling and ocean???atmosphere CO2 exchange. The present rise in atmospheric CO2 levels causes significant changes in surface ocean pH and carbonate chemistry. Such changes have been shown to slow down calcification in corals and coralline macroalgae,, but the majority of marine calcification occurs in planktonic organisms. Here we report reduced calcite production at increased CO2 concentrations in monospecific cultures of two dominant marine calcifying phytoplankton species, the coccolithophorids Emiliania huxleyi and Gephyrocapsa oceanica . This was accompanied by an increased proportion of malformed coccoliths and incomplete coccospheres. Diminished calcification led to a reduction in the ratio of calcite precipitation to organic matter production. Similar results were obtained in incubations of natural plankton assemblages from the north Pacific ocean when exposed to experimentally elevated CO2 levels. We suggest that the progressive increase in atmospheric CO2 concentrations may therefore slow down the production of calcium carbonate in the surface ocean. As the process of calcification releases CO2 to the atmosphere, the response observed here could potentially act as a negative feedback on atmospheric CO2 levels.",
+            "authors": "Riebesell U., Zondervan I., Rost B., Tortell P., Morel F.",
+            "group": 1,
+            "id": 2,
+            "name": "5852",
+            "nb": 728,
+            "title1": "Reduced calcification of marine plankton in response to increased atmospheric CO2",
+            "title2": "Nature",
+            "year": 2000
+        },
+        {
+            "DOI": "10.1038/37333",
+            "abstract": "Stable oxygen and carbon isotope measurements on biogenic calcite and aragonite have become standard tools for reconstructing past oceanographic and climatic change. In aquatic organisms, super(18)O / super(16)O ratios in the shell carbonate are a function of the ratio in the sea water and the calcification temperature. In contrast, super13C/ super(12)C ratios are controlled by the ratio of dissolved inorganic carbon in sea water and physiological processes such as respiration and symbiont photosynthesis. These geochemical proxies have been used with analyses of foraminifera shells to reconstruct global ice volumes, surface and deep ocean temperatures, ocean circulation changes and glacial-interglacial exchange between the terrestrial and oceanic carbon pools. Here, we report experimental measurements on living symbiotic and non-symbiotic plankton foraminifera (Orbulina universa and Globigerina bulloides respectively) showing that the super13C/ super(12)C and super(18)O/ super(16)O ratios of the calcite shells decrease with increasing seawater [CO sub(3) super(2-)]. Because glacial-period oceans had higher pH and [CO sub(3) super(2-)] than today, these new relationships confound the standard interpretation of glacial foraminiferal stable-isotope data. In particular, the hypothesis that the glacial-interglacial shift in the super13C/ super(12)C ratio was due to a transfer of terrestrial carbon into the ocean can be explained alternatively by an increase in ocean alkalinity. A carbonate-concentration effect could also help explain some of the extreme stable-isotope variations during the Proterozoic and Phanerozoic aeons.",
+            "authors": "Spero H., Bijma J., Lea D., Bemis B.",
+            "group": 10,
+            "id": 3,
+            "name": "15886",
+            "nb": 538,
+            "title1": "Effect of seawater carbonate concentration on foraminiferal carbon and oxygen isotopes",
+            "title2": "Nature",
+            "year": 1997
+        },
+        {
+            "DOI": "10.1126/science.1155676",
+            "abstract": "The absorption of atmospheric carbon dioxide into the ocean lowers the pH of the waters. This so-called ocean acidification could have important consequences for marine ecosystems. In order to better understand the extent of this ocean acidification in coastal waters, we conducted hydrographic surveys from central Canada to northern Mexico. We observed seawater that is undersaturated with respect to aragonite upwelling onto large portions of the continental shelf, reaching depths of approximately 40 to 120 m along most transect lines and all the way to the surface on one transect off northern California. While seasonal upwelling of the undersaturated waters onto the shelf is a natural phenomenon in this region, the ocean uptake of anthropogenic CO2 has increased the areal extent of the affected area.",
+            "authors": "Feely R., Sabine C., Hernandez-Ayon J., Ianson D., Hales B.",
+            "group": 1,
+            "id": 4,
+            "name": "21657",
+            "nb": 482,
+            "title1": "Evidence for upwelling of corrosive ???acidified??? water onto the continental shelf",
+            "title2": "Science",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1130/G30210A.1",
+            "abstract": "Anthropogenic elevation of atmospheric carbon dioxide (pCO2) is making the oceans more acidic, thereby reducing their degree of saturation with respect to calcium carbonate (CaCO3). There is mounting concern over the impact that future CO2-induced reductions in the CaCO3 saturation state of seawater will have on marine organisms that construct their shells and skeletons from this mineral. Here, we present the results of 60 d laboratory experiments in which we investigated the effects of CO2-induced ocean acidification on calcification in 18 benthic marine organisms. Species were selected to span a broad taxonomic range (crustacea, cnidaria, echinoidea, rhodophyta, chlorophyta, gastropoda, bivalvia, annelida) and included organisms producing aragonite, low-Mg calcite, and high-Mg calcite forms of CaCO3. We show that 10 of the 18 species studied exhibited reduced rates of net calcification and, in some cases, net dissolution under elevated pCO2. However, in seven species, net calcification increased under the intermediate and/or highest levels of pCO2, and one species showed no response at all. These varied responses may reflect differences amongst organisms in their ability to regulate pH at the site of calcification, in the extent to which their outer shell layer is protected by an organic covering, in the solubility of their shell or skeletal mineral, and in the extent to which they utilize photosynthesis. Whatever the specific mechanism(s) involved, our results suggest that the impact of elevated atmospheric pCO2 on marine calcification is more varied than previously thought.",
+            "authors": "Ries J., Cohen A., McCorkle D.",
+            "group": 2,
+            "id": 5,
+            "name": "10749",
+            "nb": 460,
+            "title1": "Marine calcifiers exhibit mixed responses to CO2-induced ocean acidification",
+            "title2": "Geology ",
+            "year": 2009
+        },
+        {
+            "DOI": "10.1016/0016-7037(95)00030-4",
+            "abstract": "The carbon isotopic composition of the marine diatom Phaeodactylum tricornutum (??13Cp) was measured over a series of growth rates (??) in a continuous culture system in which both ??133CCO2 and [CO2]aq were determined. In accord with theory, a linear relationship was found to exist between ??/ [CO2]aq and ??p (???1000(??13CCO2 ??? ??13Cp)/1000 + d??13Cp), the biological fractionation associated with carbon fixation. The range of [CO2]aq in the continuous culture system was 13???31 ??mol kg???1. Measurements of ??13CCO2 and [CO2]aq in the mixed layer of the equatorial Pacific and estimates of ??13Cp obtained from the ??13C of chlorophyll a combined with the regression line fit to the P. tricornutum data give phytoplankton growth rates that are in excellent agreement with those estimated via other techniques. Measurement of ??p and [CO2]aq in the field can provide an estimate of in situ phytoplankton growth rates without the potential artifacts associated with incubation methodologies. These findings also suggest that accurate estimations of ancient CO2(aq) concentrations will require knowledge of both ??p and phytoplankton growth rate.",
+            "authors": "Laws E., Popp B., Bidigare R., Kennicutt M., Macko S.",
+            "group": 16,
+            "id": 6,
+            "name": "56942",
+            "nb": 435,
+            "title1": "Dependence of phytoplankton carbon isotopic composition on growth rate and [CO2]aq: theoretical considerations and experimental results",
+            "title2": "Geochimica et Cosmochimica Acta",
+            "year": 1995
+        },
+        {
+            "DOI": "10.1146/annurev-marine-041911-111611",
+            "abstract": "In marine ecosystems, rising atmospheric CO2 and climate change are associated with concurrent shifts in temperature, circulation, stratification, nutrient input, oxygen content, and ocean acidification, with potentially wideranging biological effects. Population-level shifts are occurring because of physiological intolerance to new environments, altered dispersal patterns, and changes in species interactions. Together with local climate-driven invasion and extinction, these processes result in altered community structure and diversity, including possible emergence of novel ecosystems. Impacts are particularly striking for the poles and the tropics, because of the sensitivity of polar ecosystems to sea-ice retreat and poleward species migrations as well as the sensitivity of coral-algal symbiosis to minor increases in temperature. Midlatitude upwelling systems, like the California Current, exhibit strong linkages between climate and species distributions, phenology, and demography. Aggregated effects may modify energy and material flows as well as biogeochemical cycles, eventually impacting the overall ecosystem functioning and services upon which people and societies depend.",
+            "authors": "Doney S., Ruckelshaus M., Duffy J., Barry J., Chan F., English C., Galindo H., Grebmeier J., Hollowed A., Knowlton N., Polovina J., Rabalais N., Sydeman W., Talley L.",
+            "group": 6,
+            "id": 7,
+            "name": "48632",
+            "nb": 427,
+            "title1": "Climate change impacts on marine ecosystems",
+            "title2": "Annual Review of Marine Science",
+            "year": 2012
+        },
+        {
+            "DOI": "10.1029/2004JC002671 ",
+            "abstract": "We present ocean chemistry calculations based on ocean general circulation model simulations of atmospheric CO2 emission, stabilization of atmospheric CO2 content, and stabilization of atmospheric CO2 achieved in total or in part by injection of CO2 to the deep ocean interior. Our goal is to provide first-order results from various CO2 pathways, allowing correspondence with studies of marine biological effects of added CO2. Parts of the Southern Ocean become undersaturated with respect to aragonite under the Intergovernmental Panel on Climate Change Special Report on Emissions Scenarios (SRES) A1, A2, B1, and B2 emission pathways and the WRE pathways that stabilize CO2 at 650 ppm or above. Cumulative atmospheric emission of 5000 Pg C produces aragonite undersaturation in most of the surface ocean; 10,000 Pg C also produces calcite undersaturation in most of the surface ocean. Stabilization of atmospheric CO2 at 450 ppm produces both calcite and aragonite undersaturation in most of the deep ocean. The simulated SRES pathways produce global surface pH reductions of ???0.3???0.5 units by year 2100. Approximately this same reduction is produced by WRE650 and WRE1000 stabilization scenarios and by the 1250 Pg C emission scenario by year 2300. Atmospheric emissions of 5000 Pg C and 20,000 Pg C produce global surface pH reductions of 0.8 and 1.4 units, respectively, by year 2300. Simulations of deep ocean CO2  injection as an alternative to atmospheric release show greater chemical impact on the deep ocean as the price for having less impact on the surface ocean and climate. Changes in ocean chemistry of the magnitude shown are likely to be biologically significant. ",
+            "authors": "Caldeira K., Wickett M.",
+            "group": 2,
+            "id": 8,
+            "name": "85819",
+            "nb": 424,
+            "title1": "Ocean model predictions of chemistry changes from carbon dioxide emissions to the atmosphere and ocean",
+            "title2": "Journal of Geophysical Research",
+            "year": 2005
+        },
+        {
+            "DOI": "10.1073pnas.0804478105",
+            "abstract": "Ocean acidification represents a key threat to coral reefs by reducing the calcification rate of the major reef framework builders.  In addition, acidification is likely to affect the important relationship between corals and their symbiotic dinoflagellates, and on the productivity of this association.  However, little is known about how acidification impacts on the physiology of key reef builders and how acidification interacts with warming.  Here, we report on an eight-week study that compared the bleaching, productivity and calcification responses of crustose coralline algae (CCA) and branching (Acropora) and massive (Porites) coral species in response to acidification and warming. Using a 30-tank flow-through experimental system, we manipulated CO2 levels to simulate doubling and 3- 4-fold increases (projection categories 4 and 6 of the IPCC) relative to present-day levels under cool and warm scenarios. Results demonstrated that acidification is a strong bleaching agent for corals and CCA, acting synergistically with warming to lower thermal thresholds for bleaching.  Overall, acidification impacted more strongly on bleaching and productivity than on calcification. Interestingly, the intermediate CO2 scenario under the warm conditions lead to an 30-50% increase in productivity in corals, whereas the high CO2 level lead to near-zero productivity. Productivity and calcification rates of CCA were more sensitive to acidification than those of corals, with high CO2 dosing leading to negative productivity and high rates of net dissolution. Our findings suggest that, if CO2- emission scenarios unfold as projected, sensitive reef-building species such as CCA may be pushed beyond their thresholds for growth and survival within the next few decades whereas corals will show delayed and mixed responses.  ",
+            "authors": "Anthony K., Kline D., Diaz-Pulido G., Dove S., Hoegh-Guldberg O.",
+            "group": 18,
+            "id": 9,
+            "name": "5276",
+            "nb": 422,
+            "title1": "Ocean acidification causes bleaching and productivity loss in coral reef builders",
+            "title2": "Proceedings Of The National Academy Of Sciences USA",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1126/science.1154122",
+            "abstract": "Ocean acidification in response to rising atmospheric CO2 partial pressures is widely expected to reduce calcification by marine organisms. From the mid- Mesozoic, coccolithophores have been major calcium carbonate producers in the world's oceans, today accounting for about a third of the total marine CaCO3 production. Here, we present laboratory evidence that calcification and net primary production in the coccolithophore species Emiliania huxleyi are significantly increased by high CO2 partial pressures. Field evidence from the deep ocean is consistent with these laboratory conclusions, indicating that over the past 220 years there has been a 40% increase in average coccolith mass. Our findings show that coccolithophores are already responding and will probably continue to respond to rising atmospheric CO2 partial pressures, which has important implications for biogeochemical modeling of future oceans and climate.",
+            "authors": "Iglesias-Rodriguez M., Halloran P., Rickaby R., Hall I., Colmenero-Hidalgo E., Gittins J., Green D., Tyrrell T., Gibbs S., von Dassow P., Rehm E., Armbrust E., Boessenkool K.",
+            "group": 14,
+            "id": 10,
+            "name": "3788",
+            "nb": 394,
+            "title1": "Phytoplankton calcification in a high-CO2 world",
+            "title2": "Science",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1016/S0921-8181(98)00035-6",
+            "abstract": "The carbonate chemistry of seawater is usually not considered to be an important factor influencing calcium carbonate precipitation by corals because surface seawater is supersaturated with respect to aragonite. Recent reports, however, suggest that it could play a major role in the evolution and biogeography of recent corals. We investigated the calcification rates of five colonies of the zooxanthellate coral Stylophora pistillata in synthetic seawater using the alkalinity anomaly technique. Changes in aragonite saturation from 98% to 585% were obtained by manipulating the calcium concentration. The results show a nonlinear increase in calcification rate as a function of aragonite saturation level. Calcification increases nearly 3-fold when aragonite saturation increases from 98% to 390%, i.e., close to the typical present saturation state of tropical seawater. There is no further increase of calcification at saturation values above this threshold. Preliminary data suggest that another coral species, Acropora sp., displays a similar behaviour. These experimental results suggest: (1) that the rate of calcification does not change significantly within the range of saturation levels corresponding to the last glacial-interglacial cycle, and (2) that it may decrease significantly in the future as a result of the decrease in the saturation level due to anthropogenic release of CO2 into the atmosphere. Experimental studies that control environmental conditions and seawater composition provide unique opportunities to unravel the response of corals to global environmental changes.",
+            "authors": "Gattuso J., Frankignoulle M., Bourge I., Romaine S., Buddemeier R.",
+            "group": 1,
+            "id": 11,
+            "name": "43110",
+            "nb": 322,
+            "title1": "Effect of calcium carbonate saturation of seawater on coral calcification",
+            "title2": "Global and Planetary Change",
+            "year": 1998
+        },
+        {
+            "DOI": "10.1038/nclimate1122",
+            "abstract": "Experiments have shown that ocean acidification due to rising atmospheric carbon dioxide concentrations has deleterious effects on the performance of many marine organisms. However, few empirical or modelling studies have addressed the long-term consequences of ocean acidification for marine ecosystems. Here we show that as pH declines from 8.1 to 7.8 (the change expected if atmospheric carbon dioxide concentrations increase from 390 to 750???ppm, consistent with some scenarios for the end of this century) some organisms benefit, but many more lose out. We investigated coral reefs, seagrasses and sediments that are acclimatized to low pH at three cool and shallow volcanic carbon dioxide seeps in Papua New Guinea. At reduced pH, we observed reductions in coral diversity, recruitment and abundances of structurally complex framework builders, and shifts in competitive interactions between taxa. However, coral cover remained constant between pH 8.1 and ~7.8, because massive Porites corals established dominance over structural corals, despite low rates of calcification. Reef development ceased below pH 7.7. Our empirical data from this unique field setting confirm model predictions that ocean acidification, together with temperature stress, will probably lead to severely reduced diversity, structural complexity and resilience of Indo-Pacific coral reefs within this century.",
+            "authors": "Fabricius K., Langdon C., Uthicke S., Humphrey C., Noonan S., De'ath G., Okazaki R., Muehllehner N., Glas M., Lough J.",
+            "group": 17,
+            "id": 12,
+            "name": "1168",
+            "nb": 308,
+            "title1": "Losers and winners in coral reefs acclimatized to elevated carbon dioxide concentrations",
+            "title2": "Nature Climate Change",
+            "year": 2011
+        },
+        {
+            "DOI": "10.1126/science.1165283",
+            "abstract": "Reef-building corals are under increasing physiological stress from a changing climate and ocean absorption of increasing atmospheric carbon dioxide. We investigated 328 colonies of massive Porites corals from 69 reefs of the Great Barrier Reef (GBR) in Australia. Their skeletal records show that throughout the GBR, calcification has declined by 14.2% since 1990, predominantly because extension (linear growth) has declined by 13.3%. The data suggest that such a severe and sudden decline in calcification is unprecedented in at least the past 400 years. Calcification increases linearly with increasing large-scale sea surface temperature but responds nonlinearly to annual temperature anomalies. The causes of the decline remain unknown; however, this study suggests that increasing temperature stress and a declining saturation state of seawater aragonite may be diminishing the ability of GBR corals to deposit calcium carbonate.",
+            "authors": "De'ath G., Lough J., Fabricius K.",
+            "group": 18,
+            "id": 13,
+            "name": "71176",
+            "nb": 300,
+            "title1": "Declining coral calcification on the Great Barrier Reef",
+            "title2": "Science",
+            "year": 2009
+        },
+        {
+            "DOI": "10.1098/rspb.2008.0343",
+            "abstract": "Ocean acidification is the lowering of pH in the oceans as a result of increasing uptake of atmospheric carbon dioxide. Carbon dioxide is entering the oceans at a greater rate than ever before, reducing the ocean???s natural buffering capacity and lowering pH. Previous work on the biological consequences of ocean acidification has suggested that calcification and metabolic processes are compromised in acidified seawater. By contrast, here we show, using the ophiuroid brittlestar Amphiura filiformis as a model calcifying organism, that some organisms can increase the rates of many of their biological processes (in this case, metabolism and the ability to calcify to compensate for increased seawater acidity). However, this upregulation of metabolism and calcification, potentially ameliorating some of the effects of increased acidity comes at a substantial cost (muscle wastage) and is therefore unlikely to be sustainable in the long term.",
+            "authors": "Wood H., Spicer J., Widdicombe S.",
+            "group": 15,
+            "id": 14,
+            "name": "5244",
+            "nb": 281,
+            "title1": "Ocean acidification may increase calcification rates, but at a cost",
+            "title2": "Proceedings of the Royal Society B: Biological Sciences",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1111/gcb.12179",
+            "abstract": "Ocean acidification represents a threat to marine species worldwide, and forecasting the ecological impacts of acidification is a high priority for science, management, and policy. As research on the topic expands at an exponential rate, a comprehensive understanding of the variability in organisms??? responses and corresponding levels of certainty is necessary to forecast the ecological effects. Here, we perform the most comprehensive meta-analysis to date by synthesizing the results of 228 studies examining biological responses to ocean acidification. The results reveal decreased survival, calcification, growth, development and abundance in response to acidification when the broad range of marine organisms is pooled together. However, the magnitude of these responses varies among taxonomic groups, suggesting there is some predictable trait-based variation in sensitivity despite the investigation of approximately 100 new species in recent research. The results also reveal an enhanced sensitivity of mollusc larvae, but suggest that an enhanced sensitivity of early life history stages is not universal across all taxonomic groups. In addition, the variability in species??? responses is enhanced when they are exposed to acidification in multi-species assemblages, suggesting it is important to consider indirect effects and exercise caution when forecasting abundance patterns from single species laboratory experiments. Furthermore, the results suggest that other factors, such as nutritional status or source population, could cause substantial variation in organisms??? responses. Last, the results highlight a trend towards enhanced sensitivity to acidification when taxa are concurrently exposed to elevated seawater temperature.",
+            "authors": "Kroeker K., Kordas R., Crim R., Hendriks I., Ramajo L., Singh G., Duarte C., Gattuso J.",
+            "group": 9,
+            "id": 15,
+            "name": "85544",
+            "nb": 278,
+            "title1": "Impacts of ocean acidification on marine organisms: quantifying sensitivities and interaction with warming",
+            "title2": "Global Change Biology",
+            "year": 2013
+        },
+        {
+            "DOI": "10.1890/100014",
+            "abstract": "Streams, rivers, lakes, and other inland waters are important agents in the coupling of biogeochemical cycles between continents, atmosphere, and oceans. The depiction of these roles in global-scale assessments of carbon (C) and other bioactive elements remains limited, yet recent findings suggest that C discharged to the oceans is only a fraction of that entering rivers from terrestrial ecosystems via soil respiration, leaching, chemical weathering, and physical erosion. Most of this C influx is returned to the atmosphere from inland waters as carbon dioxide (CO2) or buried in sedimentary deposits within impoundments, lakes, floodplains, and other wetlands. Carbon and mineral cycles are coupled by both erosion???deposition processes and chemical weathering, with the latter producing dissolved inorganic C and carbonate buffering capacity that strongly modulate downstream pH, biological production of calcium-carbonate shells, and CO2 outgassing in rivers, estuaries, and coastal zones. Human activities substantially affect all of these processes.",
+            "authors": "Aufdenkampe A., Mayorga E., Raymond P., Melack J., Doney S., Alin S., Aalto R., Yoo K.",
+            "group": 19,
+            "id": 16,
+            "name": "76057",
+            "nb": 270,
+            "title1": "Riverine coupling of biogeochemical cycles between land, oceans, and atmosphere",
+            "title2": "Frontiers in Ecology and the Environment",
+            "year": 2011
+        },
+        {
+            "DOI": "10.1038/ngeo100",
+            "abstract": "Owing to anthropogenic emissions, atmospheric concentrations of carbon dioxide could almost double between 2006 and 2100 according to business-as-usual carbon dioxide emission scenarios. Because the ocean absorbs carbon dioxide from the atmosphere, increasing atmospheric carbon dioxide concentrations will lead to increasing dissolved inorganic carbon and carbon dioxide in surface ocean waters, and hence acidification and lower carbonate saturation states. As a consequence, it has been suggested that marine calcifying organisms, for example corals, coralline algae, molluscs and foraminifera, will have difficulties producing their skeletons and shells at current rates, with potentially severe implications for marine ecosystems, including coral reefs. Here we report a seven-week experiment exploring the effects of ocean acidification on crustose coralline algae, a cosmopolitan group of calcifying algae that is ecologically important in most shallow-water habitats. Six outdoor mesocosms were continuously supplied with sea water from the adjacent reef and manipulated to simulate conditions of either ambient or elevated seawater carbon dioxide concentrations. The recruitment rate and growth of crustose coralline algae were severely inhibited in the elevated carbon dioxide mesocosms. Our findings suggest that ocean acidification due to human activities could cause significant change to benthic community structure in shallow-warm-water carbonate ecosystems.",
+            "authors": "Kuffner I., Andersson A., Jokiel P., Rodgers K., Mackenzie F.",
+            "group": 2,
+            "id": 17,
+            "name": "60313",
+            "nb": 260,
+            "title1": "Decreased abundance of crustose coralline algae due to ocean acidification",
+            "title2": "Nature Geoscience",
+            "year": 2007
+        },
+        {
+            "DOI": "10.1111/j.1467-2979.2008.00310.x",
+            "abstract": "Anthropogenic global warming has significantly influenced physical and biological processes at global and regional scales. The observed and anticipated changes in global climate present significant opportunities and challenges for societies and economies. We compare the vulnerability of 132 national economies to potential climate change impacts on their capture fisheries using an indicator-based approach. Countries in Central and Western Africa (e.g. Malawi, Guinea, Senegal, and Uganda), Peru and Colombia in north-western South America, and four tropical Asian countries (Bangladesh, Cambodia, Pakistan, and Yemen) were identified as most vulnerable. This vulnerability was due to the combined effect of predicted warming, the relative importance of fisheries to national economies and diets, and limited societal capacity to adapt to potential impacts and opportunities. Many vulnerable countries were also among the world???s least developed countries whose inhabitants are among the world???s poorest and twice as reliant on fish, which provides 27% of dietary protein compared to 13% in less vulnerable countries. These countries also produce 20% of the world???s fish exports and are in greatest need of adaptation planning to maintain or enhance the contribution that fisheries can make to poverty reduction. Although the precise impacts and direction of climate-driven change for particular fish stocks and fisheries are uncertain, our analysis suggests they are likely to lead to either increased economic hardship or missed opportunities for development in countries that depend upon fisheries but lack the capacity to adapt.",
+            "authors": "Allison E., Perry A., Badjeck M., Adger W., Brown K., Conway D., Halls A., Pilling G., Reynolds J., Andrew N., Dulvy N.",
+            "group": 16,
+            "id": 18,
+            "name": "697",
+            "nb": 258,
+            "title1": "Vulnerability of national economies to the impacts of climate change on fisheries",
+            "title2": "Fish and Fisheries ",
+            "year": 2009
+        },
+        {
+            "DOI": "10.1073/pnas.0809996106",
+            "abstract": "The persistence of most coastal marine species depends on larvae finding suitable adult habitat at the end of an offshore dispersive stage that can last weeks or months. We tested the effects that ocean acidification from elevated levels of atmospheric carbon dioxide (CO2 ) could have on the ability of larvae to detect olfactory cues from adult habitats. Larval clownfish reared in control seawater (pH 8.15 ) discriminated between a range of cues that could help them locate reef habitat and suitable settlement sites. This discriminatory ability was disrupted when larvae were reared in conditions simulating CO2-induced ocean acidification. Larvae became strongly attracted to olfactory stimuli they normally avoided when reared at levels of ocean pH that could occur ca. 2100 (pH 7.8 ) and they no longer responded to any olfactory cues when reared at pH levels (pH 7.6 ) that might be attained later next century on a business-as-usual carbon-dioxide emissions trajectory. If acidification continues unabated, the impairment of sensory ability will reduce population sustainability of many marine species, with potentially profound consequences for marine diversity.",
+            "authors": "Munday P., Dixson D., Donelson J., Jones G., Pratchett M., Devitsina G., D\u00F8ving K.",
+            "group": 15,
+            "id": 19,
+            "name": "44076",
+            "nb": 254,
+            "title1": "Ocean acidification impairs olfactory discrimination and homing ability of a marine fish",
+            "title2": "Proceedings of the National Academy of Sciences U.S.A",
+            "year": 2009
+        },
+        {
+            "DOI": "10.1029/2004JC002576",
+            "abstract": "An investigation was conducted to determine the effects of elevated pCO(2) on the net production and calcification of an assemblage of corals maintained under near-natural conditions of temperature, light, nutrient, and flow. Experiments were performed in summer and winter to explore possible interactions between seasonal change in temperature and irradiance and the effect of elevated pCO(2). Particular attention was paid to interactions between net production and calcification because these two processes are thought to compete for the same internal supply of dissolved inorganic carbon (DIC). A nutrient enrichment experiment was performed because it has been shown to induce a competitive interaction between photosynthesis and calcification that may serve as an analog to the effect of elevated pCO(2). Net carbon production, NPC, increased with increased pCO(2) at the rate of 3 +/- 2% (mu mol CO(2)aq kg(-1))(-1). Seasonal change of the slope NPC-[CO(2)aq] relationship was not significant. Calcification (G) was strongly related to the aragonite saturation state Omega(a). Seasonal change of the G-Omega(a) relationship was not significant. The first-order saturation state model gave a good fit to the pooled summer and winter data: G = (8 +/- 1 mmol CaCO3 m(-2) h(-1))(Omega(a) - 1), r(2) = 0.87, P = 0.0001. Both nutrient and CO2 enrichment resulted in an increase in NPC and a decrease in G, giving support to the hypothesis that the cellular mechanism underlying the decrease in calcification in response to increased pCO(2) could be competition between photosynthesis and calcification for a limited supply of DIC.",
+            "authors": "Langdon C., Atkinson M.",
+            "group": 17,
+            "id": 20,
+            "name": "45706",
+            "nb": 247,
+            "title1": "Effect of elevated pCO2 on photosynthesis and calcification of corals and interactions with seasonal change in temperature/irradiance and nutrient enrichment",
+            "title2": "Journal of Geophysical Research- Oceans",
+            "year": 2005
+        },
+        {
+            "DOI": "10.1046/j.1365-2486.2003.00678.x",
+            "abstract": "We show here that CO 2partial pressure ( pCO 2) and temperature significantly interact on coral physiology. The effects of increased pCO 2and temperature on photosynthesis, respiration and calcification rates were investigated in the scleractinian coral Stylophora pistillata . Cuttings were exposed to temperatures of 25??C or 28??C and to pCO 2values of ca. 460 or 760 atm for 5 weeks. The contents of chlorophyll c2and protein remained constant throughout the experiment, while the chlorophyll acontent was significantly affected by temperature, and was higher under the 'high-temperature-high- pCO 2' condition. The cell-specific density was higher at 'high pCO 2' than at 'normal pCO 2' (1.7 vs. 1.4). The net photosynthesis normalized per unit protein was affected by both temperature and pCO 2, whereas respiration was not affected by the treatments. Calcification decreased by 50% when temperature and pCO 2were both elevated. Calcification under normal temperature did not change in response to an increased pCO 2. This is not in agreement with numerous published papers that describe a negative relationship between marine calcification and CO 2. The confounding effect of temperature has the potential to explain a large portion of the variability of the relationship between calcification and pCO 2reported in the literature, and warrants a re-evaluation of the projected decrease of marine calcification by the year 2100.",
+            "authors": "Reynaud S., Leclercq N., Romaine-Lioud S., Ferrier-Pagès C., Jaubert J., Gattuso J.",
+            "group": 13,
+            "id": 21,
+            "name": "28588",
+            "nb": 225,
+            "title1": "Interacting effects of CO2 partial pressure and temperature on photosynthesis and calcification in a scleractinian coral",
+            "title2": "Global Change Biology",
+            "year": 2003
+        },
+        {
+            "DOI": "10.1126/science.1185198",
+            "abstract": "Climate change, rising atmospheric carbon dioxide, excess nutrient inputs, and pollution in its many forms are fundamentally altering the chemistry of the ocean, often on a global scale and, in some cases, at rates greatly exceeding those in the historical and recent geological record. Major observed trends include a shift in the acid-base chemistry of seawater, reduced subsurface oxygen both in near-shore coastal water and in the open ocean, rising coastal nitrogen levels, and widespread increase in mercury and persistent organic pollutants. Most of these perturbations, tied either directly or indirectly to human fossil fuel combustion, fertilizer use, and industrial activity, are projected to grow in coming decades, resulting in increasing negative impacts on ocean biota and marine resources.",
+            "authors": "Doney S.",
+            "group": 17,
+            "id": 22,
+            "name": "13985",
+            "nb": 221,
+            "title1": "The growing human footprint on coastal and open-ocean biogeochemistry",
+            "title2": "Science ",
+            "year": 2010
+        },
+        {
+            "DOI": "10.1371/journal.pone.0028983",
+            "abstract": "The effect of Ocean Acidification (OA) on marine biota is quasi-predictable at best. While perturbation studies, in the form of incubations under elevated pCO2, reveal sensitivities and responses of individual species, one missing link in the OA story results from a chronic lack of pH data specific to a given species??? natural habitat. Here, we present a compilation of continuous, high-resolution time series of upper ocean pH, collected using autonomous sensors, over a variety of ecosystems ranging from polar to tropical, open-ocean to coastal, kelp forest to coral reef. These observations reveal a continuum of month-long pH variability with standard deviations from 0.004 to 0.277 and ranges spanning 0.024 to 1.430 pH units. The nature of the observed variability was also highly site-dependent, with characteristic diel, semi-diurnal, and stochastic patterns of varying amplitudes. These biome-specific pH signatures disclose current levels of exposure to both high and low dissolved CO2, often demonstrating that resident organisms are already experiencing pH regimes that are not predicted until 2100. Our data provide a first step toward crystallizing the biophysical link between environmental history of pH exposure and physiological resilience of marine organisms to fluctuations in seawater CO2. Knowledge of this spatial and temporal variation in seawater chemistry allows us to improve the design of OA experiments: we can test organisms with a priori expectations of their tolerance guardrails, based on their natural range of exposure. Such hypothesis-testing will provide a deeper understanding of the effects of OA. Both intuitively simple to understand and powerfully informative, these and similar comparative time series can help guide management efforts to identify areas of marine habitat that can serve as refugia to acidification as well as areas that are particularly vulnerable to future ocean change.",
+            "authors": "Hofmann G., Smith J., Johnson K., Send U., Levin L., Micheli F., Paytan A., Price N., Peterson B., Takeshita Y., Matson P., Derse Crook E., Kroeker K., Gambi M., Rivest E., Frieder C., Yu P., Martz T.",
+            "group": 17,
+            "id": 23,
+            "name": "3294",
+            "nb": 220,
+            "title1": "High-Frequency dynamics of ocean pH: a multi-ecosystem comparison",
+            "title2": "PLoS ONE ",
+            "year": 2011
+        },
+        {
+            "DOI": "10.1196/annals.1439.013",
+            "abstract": "Ocean acidification is rapidly changing the carbonate system of the world oceans. Past mass extinction events have been linked to ocean acidification, and the current rate of change in seawater chemistry is unprecedented. Evidence suggests that these changes will have significant consequences for marine taxa, particularly those that build skeletons, shells, and tests of biogenic calcium carbonate. Potential changes in species distributions and abundances could propagate through multiple trophic levels of marine food webs, though research into the long-term ecosystem impacts of ocean acidification is in its infancy. This review attempts to provide a general synthesis of known and/or hypothesized biological and ecosystem responses to increasing ocean acidification. Marine taxa covered in this review include tropical reef-building corals, cold-water corals, crustose coralline algae, Halimeda, benthic mollusks, echinoderms, coccolithophores, foraminifera, pteropods, seagrasses, jellyfishes, and fishes. The risk of irreversible ecosystem changes due to ocean acidification should enlighten the ongoing CO(2) emissions debate and make it clear that the human dependence on fossil fuels must end quickly. Political will and significant large-scale investment in clean-energy technologies are essential if we are to avoid the most damaging effects of human-induced climate change, including ocean acidification.",
+            "authors": "Guinotte J., Fabry V.",
+            "group": 3,
+            "id": 24,
+            "name": "28499",
+            "nb": 208,
+            "title1": "Ocean acidification and its potential effects on marine ecosystems",
+            "title2": "Annals of the New York Academy of Sciences",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1029/2006GL028554",
+            "abstract": "Ocean acidification resulting from human emissions of carbon dioxide has already lowered and will further lower surface ocean pH. The consequent decrease in calciumcarbonate saturation potentially threatens calcareous marineorganisms. Here, we demonstrate that the calcification rates of the edible mussel (Mytilus edulis) and Pacific oyster (Crassostrea gigas) decline linearly with increasing pCO2.Mussel and oyster calcification may decrease by 25 and 10%, respectively, by the end of the century, following theIPCC IS92a scenario (740 ppmv in 2100). Moreover, mussels dissolve at pCO2 values exceeding a thresholdvalue of 1800 ppmv. As these two species are important ecosystem engineers in coastal ecosystems and represent a large part of worldwide aquaculture production, thepredicted decrease of calcification in response to ocean acidification will probably have an impact on coastalbiodiversity and ecosystem functioning as well as potentially lead to significant economic loss.",
+            "authors": "Gazeau F., Quiblier C., Jansen J., Gattuso J., Middelburg J., Heip C.",
+            "group": 10,
+            "id": 25,
+            "name": "6156",
+            "nb": 199,
+            "title1": "Impact of elevated CO2 on shellfish calcification",
+            "title2": "Geophysical Research Letters",
+            "year": 2007
+        },
+        {
+            "DOI": "10.1029/2005GC001227",
+            "abstract": "Uptake of half of the fossil fuel CO2 into the ocean causes gradual seawater acidification. This has been shown to slow down calcification of major calcifying groups, such as corals, foraminifera, and coccolithophores. Here we show that two of the most productive marine calcifying species, the coccolithophores Coccolithus pelagicus and Calcidiscus leptoporus, do not follow the CO2-related calcification response previously found. In batch culture experiments, particulate inorganic carbon (PIC) of C. leptoporus changes with increasing CO2 concentration in a nonlinear relationship. A PIC optimum curve is obtained, with a maximum value at present-day surface ocean pCO(2) levels (similar to 360 ppm CO2). With particulate organic carbon (POC) remaining constant over the range of CO2 concentrations, the PIC/POC ratio also shows an optimum curve. In the C. pelagicus cultures, neither PIC nor POC changes significantly over the CO2 range tested, yielding a stable PIC/POC ratio. Since growth rate in both species did not change with pCO(2), POC and PIC production show the same pattern as POC and PIC. The two investigated species respond differently to changes in the seawater carbonate chemistry, highlighting the need to consider species-specific effects when evaluating whole ecosystem responses. Changes of calcification rate (PIC production) were highly correlated to changes in coccolith morphology. Since our experimental results suggest altered coccolith morphology ( at least in the case of C. leptoporus) in the geological past, coccoliths originating from sedimentary records of periods with different CO2 levels were analyzed. Analysis of sediment samples was performed on six cores obtained from locations well above the lysocline and covering a range of latitudes throughout the Atlantic Ocean. Scanning electron micrograph analysis of coccolith morphologies did not reveal any evidence for significant numbers of incomplete or malformed coccoliths of C. pelagicus and C. leptoporus in last glacial maximum and Holocene sediments. The discrepancy between experimental and geological results might be explained by adaptation to changing carbonate chemistry.",
+            "authors": "Langer G., Geisen M., Baumann K., Klas J., Riebesell U., Thoms S., Young J.",
+            "group": 8,
+            "id": 26,
+            "name": "62167",
+            "nb": 197,
+            "title1": "Species-specific responses of calcifying algae to changing seawater carbonate chemistry",
+            "title2": "Geochemistry, Geophysics, Geosystems",
+            "year": 2006
+        },
+        {
+            "DOI": "10.1016/j.ecss.2009.11.022",
+            "abstract": "The ocean captures a large part of the anthropogenic carbon dioxide emitted to the atmosphere. As a result of the increase in CO2 partial pressure the ocean pH is lowered as compared to pre-industrial times and a further decline is expected. Ocean acidification has been proposed to pose a major threat for marine organisms, particularly shell-forming and calcifying organisms. Here we show, on the basis of meta-analysis of available experimental assessments, differences in organism responses to elevated pCO2 and propose that marine biota may be more resistant to ocean acidification than expected. Calcification is most sensitive to ocean acidification while it is questionable if marine functional diversity is impacted significantly along the ranges of acidification predicted for the 21st century. Active biological processes and small-scale temporal and spatial variability in ocean pH may render marine biota far more resistant to ocean acidification than hitherto believed.",
+            "authors": "Hendriks I., Duarte C., 00C1lvarez M.",
+            "group": 10,
+            "id": 27,
+            "name": "53860",
+            "nb": 188,
+            "title1": "Vulnerability of marine biodiversity to ocean acidification: a meta-analysis",
+            "title2": "Estuarine, Coastal and Shelf Science ",
+            "year": 2010
+        },
+        {
+            "DOI": "10.1073pnas.0906044106",
+            "abstract": "Atmospheric carbon dioxide (CO2) is increasing at an accelerating rate, primarily due to fossil fuel combustion and land use change. A substantial fraction of anthropogenic CO2 emissions is absorbed by the oceans, resulting in a reduction of seawater pH. Continued acidification may over time have profound effects on marine biota and biogeochemical cycles. Although the physical and chemical basis for ocean acidification is well understood, there exist few field data of sufficient duration, resolution, and accuracy to document the acidification rate and to elucidate the factors governing its variability. Here we report the results of nearly 20 years of time-series measurements of seawater pH and associated parameters at Station ALOHA in the central North Pacific Ocean near Hawaii. We document a significant long-term decreasing trend of ???0.0019 ?? 0.0002 y???1 in surface pH, which is indistinguishable from the rate of acidification expected from equilibration with the atmosphere. Superimposed upon this trend is a strong seasonal pH cycle driven by temperature, mixing, and net photosynthetic CO2 assimilation. We also observe substantial interannual variability in surface pH, influenced by climate-induced fluctuations in upper ocean stability. Below the mixed layer, we find that the change in acidification is enhanced within distinct subsurface strata. These zones are influenced by remote water mass formation and intrusion, biological carbon remineralization, or both. We suggest that physical and biogeochemical processes alter the acidification rate with depth and time and must therefore be given due consideration when designing and interpreting ocean pH monitoring efforts and predictive models.",
+            "authors": "Dore J., Lukas R., Sadler D., Church M., Karl D.",
+            "group": 5,
+            "id": 28,
+            "name": "75364",
+            "nb": 184,
+            "title1": "Physical and biogeochemical modulation of ocean acidification in the central North Pacific",
+            "title2": "Proceedings of the National Academy of Science U.S.A.",
+            "year": 2009
+        },
+        {
+            "DOI": "10.1038/nclimate1200",
+            "abstract": "Increasing atmospheric carbon dioxide (CO2) concentrations are expected to decrease surface ocean pH by 0.3???0.5 units by 2100, lowering the carbonate ion concentration of surface waters. This rapid acidification is predicted to dramatically decrease calcification in many marine organisms. Reduced skeletal growth under increased CO2 levels has already been shown for corals, molluscs and many other marine organisms. The impact of acidification on the ability of individual species to calcify has remained elusive, however, as measuring net calcification fails to disentangle the relative contributions of gross calcification and dissolution rates on growth. Here, we show that corals and molluscs transplanted along gradients of carbonate saturation state at Mediterranean CO2 vents are able to calcify and grow at even faster than normal rates when exposed to the high CO2 levels projected for the next 300 years. Calcifiers remain at risk, however, owing to the dissolution of exposed shells and skeletons that occurs as pH levels fall. Our results show that tissues and external organic layers play a major role in protecting shells and skeletons from corrosive sea water, limiting dissolution and allowing organisms to calcify. Our combined field and laboratory results demonstrate that the adverse effects of global warming are exacerbated when high temperatures coincide with acidification.",
+            "authors": "Rodolfo-Metalpa R., Houlbrèque F., Tambutté E., Boisson F., Baggini C., Patti F., Jeffree R., Fine M., Foggo A., Gattuso J., Hall-Spencer J.",
+            "group": 16,
+            "id": 29,
+            "name": "63831",
+            "nb": 182,
+            "title1": "Coral and mollusc resistance to ocean acidification adversely affected by warming",
+            "title2": "Nature Climate Change",
+            "year": 2011
+        },
+        {
+            "DOI": "10.1038/nature06505",
+            "abstract": "The water and dissolved inorganic carbon exported by rivers are important net fluxes that connect terrestrial and oceanic water and carbon reservoirs(1). For most rivers, the majority of dissolved inorganic carbon is in the form of bicarbonate. The riverine bicarbonate flux originates mainly from the dissolution of rock minerals by soil water carbon dioxide, a process called chemical weathering, which controls the buffering capacity and mineral content of receiving streams and rivers(2). Here we introduce an unprecedented high- temporal- resolution, 100- year data set from the Mississippi River and couple it with sub- watershed and precipitation data to reveal that the large increase in bicarbonate flux that has occurred over the past 50 years ( ref. 3) is clearly anthropogenically driven. We show that the increase in bicarbonate and water fluxes is caused mainly by an increase in discharge from agricultural watersheds that has not been balanced by a rise in precipitation, which is also relevant to nutrient and pesticide fluxes to the Gulf of Mexico. These findings demonstrate that alterations in chemical weathering are relevant to improving contemporary biogeochemical budgets. Furthermore, land use change and management were arguably more important than changes in climate and plant CO2 fertilization to increases in riverine water and carbon export from this large region over the past 50 years.",
+            "authors": "Raymond P., Oh N., Turner R., Broussard W.",
+            "group": 0,
+            "id": 30,
+            "name": "98034",
+            "nb": 177,
+            "title1": "Anthropogenically enhanced fluxes of water and carbon from the Mississippi River",
+            "title2": "Nature",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1111/j.1095-8649.2010.02783.x",
+            "abstract": "Ongoing climate change is predicted to affect individual organisms during all life stages, thereby affecting populations of a species, communities and the functioning of ecosystems. These effects of climate change can be direct, through changing water temperatures and associated phenologies, the lengths and frequency of hypoxia events, through ongoing ocean acidification trends or through shifts in hydrodynamics and in sea level. In some cases, climate interactions with a species will also, or mostly, be indirect and mediated through direct effects on key prey species which change the composition and dynamic coupling of food webs. Thus, the implications of climate change for marine fish populations can be seen to result from phenomena at four interlinked levels of biological organization: (1) organismal-level physiological changes will occur in response to changing environmental variables such as temperature, dissolved oxygen and ocean carbon dioxide levels. An integrated view of relevant effects, adaptation processes and tolerance limits is provided by the concept of oxygen and capacity-limited thermal tolerance (OCLT). (2) Individual-level behavioural changes may occur such as the avoidance of unfavourable conditions and, if possible, movement into suitable areas. (3) Population-level changes may be observed via changes in the balance between rates of mortality, growth and reproduction. This includes changes in the retention or dispersion of early life stages by ocean currents, which lead to the establishment of new populations in new areas or abandonment of traditional habitats. (4) Ecosystem-level changes in productivity and food web interactions will result from differing physiological responses by organisms at different levels of the food web. The shifts in biogeography and warming-induced biodiversity will affect species productivity and may, thus, explain changes in fisheries economies. This paper tries to establish links between various levels of biological organization by means of addressing the effective physiological principles at the cellular, tissue and whole organism levels.",
+            "authors": "Pörtner H., Peck M.",
+            "group": 2,
+            "id": 31,
+            "name": "65165",
+            "nb": 176,
+            "title1": "Climate change effects on fishes and fisheries: towards a cause-and-effect understanding",
+            "title2": "Journal of Fish Biology",
+            "year": 2010
+        },
+        {
+            "DOI": "10.1016/j.gca.2004.03.013",
+            "abstract": "We investigate the sensitivity of U/Ca, Mg/Ca, and Sr/Ca to changes in seawater [CO32-] and temperature in calcite produced by the two planktonic foraminifera species, Orbulina universa and Globigerina bulloides, in laboratory culture experiments. Our results demonstrate that at constant temperature, U/Ca in O. universa decreases by 25 +/- 7% per 100 mumol [CO32-] kg(-1), as seawater [CO32-] increases from 110 to 470 mumol kg(-1). Results from G. bulloides suggest a similar relationship, but U/Ca is consistently offset by similar to + 40% at the same environmental [CO32-]. In O. universa, U/Ca is insensitive to temperature between 15degreesC and 25degreesC. Applying the O. universa relationship to three U/Ca records from a related species, Globigerinoides sacculifer, we estimate that Caribbean and tropical Atlantic [CO32-] was 110 +/- 70 mumol kg(-1) and 80 +/- 40 mumol kg(-1) higher, respectively, during the last glacial period relative to the Holocene. This result is consistent with estimates of the glacial-interglacial change in surface water [CO32- ] based on both modeling and on 3 boron isotope pH estimates. In settings where the addition of U by diagenetic processes is not a factor, down-core records of foraminiferal U/Ca have potential to provide information about changes in the ocean's carbonate concentration. Below ambient pH (pH < 8.2), Mg/Ca decreased by 7 +/- 5% (O. universa) to 16 +/- 6% (G. bulloides) per 0.1 unit increase in pH. Above ambient pH, the change in Mg/Ca was not significant for either species. This result suggests that Mg/Ca-based paleotemperature estimates for the Quaternary, during which surface-ocean pH has been at or above modern levels, have not been biased by variations in surface-water pH. Sr/Ca increased linearly by 1.6 +/- 0.4% per 0.1 unit increase in pH. Shell Mg/Ca increased exponentially with temperature in O. universa, where Mg/Ca = 0.85 exp (0.096*T), whereas the change in Sr/Ca with temperature was within the reproducibility of replicate measurements. ",
+            "authors": "Russell A., Hönisch B., Spero H., Lea D.",
+            "group": 6,
+            "id": 32,
+            "name": "94729",
+            "nb": 174,
+            "title1": "Effects of seawater carbonate ion concentration and temperature on shell U, Mg, and Sr in cultured planktonic foraminifera",
+            "title2": "Geochimica et Cosmochimica Acta",
+            "year": 2004
+        },
+        {
+            "DOI": "10.1029/1999GB001195",
+            "abstract": "The concentration of CO2 in the atmosphere is projected to reach twice the preindustrial level by the middle of the 21st century. This increase will reduce the concentration of CO32- of the surface ocean by 30% relative to the preindustrial level and will reduce the calcium carbonate saturation state of the surface ocean by an equal percentage. Using the large 2650 m(3) coral reef mesocosm at the BIOSPHERE-2 facility near Tucson, Arizona, we investigated the effect of the projected changes in seawater carbonate chemistry on the calcification of coral reef organisms at the community scale. Our experimental design was to obtain a long (3.8 years) time series of the net calcification of the complete system and all relevant physical and chemical variables (temperature, salinity, light, nutrients, Ca2+, pCO(2), TCO2, and total alkalinity). Periodic additions of NaHCO3, Na2CO3, and/or CaCl2 were made to change the calcium carbonate saturation state of the water. We found that there were consistent and reproducible changes in the rate of calcification in response to our manipulations of the saturation state. We show that the net community calcification rate responds to manipulations in the concentrations of both Ca2+ and CO32- and that the rate is well described as a linear function of the ion concentration product, [Ca2+](0.69)[CO32-]. This suggests that saturation state or a closely related quantity is a primary environmental factor that influences calcification on coral reefs at the ecosystem level. We compare the sensitivity of calcification to short-term (days) and long-term (months to years) changes in saturation state and found that the response was not significantly different. This indicates that coral reef organisms do not seem to be able to acclimate to changing saturation state. The predicted decrease in coral reef calcification between the years 1880 and 2065 A.D. based on our long-term results is 40%. Previous small-scale, short-term organismal studies predicted a calcification reduction of 14-30%. This much longer, community-scale study suggests that the impact on coral reefs may be greater than previously suspected In the next century coral reefs will be less able to cope with rising sea level and other anthropogenic stresses.",
+            "authors": "Langdon C., Takahashi T., Marubini F., Atkinson M., Sweeney C., Aceves H., Barnett H., Chipman D., Goddard J.",
+            "group": 11,
+            "id": 33,
+            "name": "54692",
+            "nb": 170,
+            "title1": "Effect of calcium carbonate saturation state on the rate of calcification of an experimental coral reef",
+            "title2": "Global Biogeochemical Cycles",
+            "year": 2000
+        },
+        {
+            "DOI": "10.1029/1999GB001195",
+            "abstract": "The concentration of CO2 in the atmosphere is projected to reach twice the preindustrial level by the middle of the 21st century. This increase will reduce the concentration of CO32??? of the surface ocean by 30% relative to the preindustrial level and will reduce the calcium carbonate saturation state of the surface ocean by an equal percentage. Using the large 2650 m3 coral reef mesocosm at the BIOSPHERE-2 facility near Tucson, Arizona, we investigated the effect of the projected changes in seawater carbonate chemistry on the calcification of coral reef organisms at the community scale. Our experimental design was to obtain a long (3.8 years) time series of the net calcification of the complete system and all relevant physical and chemical variables (temperature, salinity, light, nutrients, Ca2+,pCO2, TCO2, and total alkalinity). Periodic additions of NaHCO3, Na2CO3, and/or CaCl2 were made to change the calcium carbonate saturation state of the water. We found that there were consistent and reproducible changes in the rate of calcification in response to our manipulations of the saturation state. We show that the net community calcification rate responds to manipulations in the concentrations of both Ca2+ and CO32??? and that the rate is well described as a linear function of the ion concentration product, [Ca2+]0.69[CO32???]. This suggests that saturation state or a closely related quantity is a primary environmental factor that influences calcification on coral reefs at the ecosystem level. We compare the sensitivity of calcification to short-term (days) and long-term (months to years) changes in saturation state and found that the response was not significantly different. This indicates that coral reef organisms do not seem to be able to acclimate to changing saturation state. The predicted decrease in coral reef calcification between the years 1880 and 2065 A.D. based on our long-term results is 40%. Previous small-scale, short-term organismal studies predicted a calcification reduction of 14-30%. This much longer, community-scale study suggests that the impact on coral reefs may be greater than previously suspected. In the next century coral reefs will be less able to cope with rising sea level and other anthropogenic stresses.",
+            "authors": "Langdon C., Takahashi T., McConnaughey T., Anderson H., West H.",
+            "group": 11,
+            "id": 34,
+            "name": "16446",
+            "nb": 170,
+            "title1": "Effect of calcium carbonate saturation state on the rate of calcification of an experimental coral reef",
+            "title2": "American Zoologist",
+            "year": 1997
+        },
+        {
+            "DOI": "10.1146/annurev.ecolsys.110308.120227",
+            "abstract": "Ocean acidification (OA), a consequence of anthropogenic carbon dioxide emissions, poses a serious threat to marine organisms in tropical, open-ocean, coastal, deep-sea, and high-latitude sea ecosystems. The diversity of taxonomic groups that precipitate calcium carbonate from seawater are at particularly high risk. Here we review the rapidly expanding literature concerning the biological and ecological impacts of OA on calcification, using a cross-scale, process-oriented approach. In comparison to calcification, we find that areas such as fertilization, early life-history stages, and interaction with synergistic stressors are understudied. Although understanding the long-term consequences of OA are critical, available studies are largely short-term experiments that do not allow for tests of long-term acclimatization or adaptation. Future research on the phenotypic plasticity of contemporary organisms and interpretations of performance in the context of current environmental heterogeneity of pCO2 will greatly aid in our understanding of how organisms will respond to OA in the future.",
+            "authors": "Hofmann G., Barry J., Edmunds P., Gates R., Hutchins D., Klinger T., Sewell M.",
+            "group": 15,
+            "id": 35,
+            "name": "59911",
+            "nb": 170,
+            "title1": "The effect of ocean acidification on calcifying organisms in marine ecosystems: an organism-to-ecosystem perspective",
+            "title2": "Annual Review of Ecology, Evolution, and Systematics",
+            "year": 2010
+        },
+        {
+            "DOI": "10.1029/2000GB001321",
+            "abstract": "In laboratory experiments with the coccolithophore species Emiliania huxleyi and Gephyrocapsa oceanica, the ratio of particulate inorganic carbon (PIC) to particulate organic carbon (POC) production decreased with increasing CO2 concentration ([CO2]). This was due to both reduced PIC and enhanced POC production at elevated [CO2]. Carbon dioxide concentrations covered a range from a preindustrial level to a value predicted for 2100 according to a \"business as usual\" anthropogenic CO2 emission scenario. The laboratory results were used to employ a model in which the immediate effect of a decrease in global marine calcification relative to POC production on the potential capacity for oceanic CO2 uptake was simulated. Assuming that overall marine biogenic calcification shows a similar response as obtained for E. huxleyi or G. oceanica in the present study, the model reveals a negative feedback on increasing atmospheric CO2 concentrations owing to a decrease in the PIC/POC ratio.",
+            "authors": "Zondervan I., Zeebe R., Rost B., Riebesell U.",
+            "group": 7,
+            "id": 36,
+            "name": "51291",
+            "nb": 169,
+            "title1": "Decreasing marine biogenic calcification: a negative feedback on rising atmospheric pCO2",
+            "title2": "Global Biogeochemical Cycles",
+            "year": 2001
+        },
+        {
+            "DOI": "10.1029/2007GB002953",
+            "abstract": "A new model of global climate, ocean circulation, ecosystems, and biogeochemical cycling, including a fully coupled carbon cycle, is presented and evaluated. The model is consistent with multiple observational data sets from the past 50 years as well as with the observed warming of global surface air and sea temperatures during the last 150 years. It is applied to a simulation of the coming two millennia following a business-as-usual scenario of anthropogenic CO2 emissions (SRES A2 until year 2100 and subsequent linear decrease to zero until year 2300, corresponding to a total release of 5100 GtC). Atmospheric CO2 increases to a peak of more than 2000 ppmv near year 2300 (that is an airborne fraction of 72% of the emissions) followed by a gradual decline to ???1700 ppmv at year 4000 (airborne fraction of 56%). Forty-four percent of the additional atmospheric CO2 at year 4000 is due to positive carbon cycle???climate feedbacks. Global surface air warms by ???10??C, sea ice melts back to 10% of its current area, and the circulation of the abyssal ocean collapses. Subsurface oxygen concentrations decrease, tripling the volume of suboxic water and quadrupling the global water column denitrification. We estimate 60 ppb increase in atmospheric N2O concentrations owing to doubling of its oceanic production, leading to a weak positive feedback and contributing about 0.24??C warming at year 4000. Global ocean primary production almost doubles by year 4000. Planktonic biomass increases at high latitudes and in the subtropics whereas it decreases at midlatitudes and in the tropics. In our model, which does not account for possible direct impacts of acidification on ocean biology, production of calcium carbonate in the surface ocean doubles, further increasing surface ocean and atmospheric pCO2. This represents a new positive feedback mechanism and leads to a strengthening of the positive interaction between climate change and the carbon cycle on a multicentennial to millennial timescale. Changes in ocean biology become important for the ocean carbon uptake after year 2600, and at year 4000 they account for 320 ppmv or 22% of the atmospheric CO2 increase since the preindustrial era. ",
+            "authors": "Schmittner A., Oschlies A., Matthews H., Galbraith E.",
+            "group": 11,
+            "id": 37,
+            "name": "67200",
+            "nb": 167,
+            "title1": "Future changes in climate, ocean circulation, ecosystems, and biogeochemical cycling simulated for a business-as-usual CO2 emission scenario until year 4000 AD",
+            "title2": "Global Biogeochemical Cycles",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1007/s10646-010-0463-6",
+            "abstract": "As a consequence of increasing atmospheric CO2, the world???s oceans are warming and slowly becoming more acidic (ocean acidification, OA) and profound changes in marine ecosystems are certain. Calcification is one of the primary targets for studies of the impact of CO2-driven climate change in the oceans and one of the key marine groups most likely to be impacted by predicted climate change events are the echinoderms. Echinoderms are a vital component of the marine environment with representatives in virtually every ecosystem, where they are often keystone ecosystem engineers. This paper reviews and analyses what is known about the impact of near-future ocean acidification on echinoderms. A global analysis of the literature reveals that echinoderms are surprisingly robust to OA and that important differences in sensitivity to OA are observed between populations and species. However, this is modulated by parameters such as (1) exposure time with rare longer term experiments revealing negative impacts that are hidden in short or midterm ones; (2) bottlenecks in physiological processes and life-cycle such as stage-specific developmental phenomena that may drive the whole species responses; (3) ecological feedback transforming small scale sub lethal effects into important negative effects on fitness. We hypothesize that populations/species naturally exposed to variable environmental pH conditions may be pre-adapted to future OA highlighting the importance to understand and monitor environmental variations in order to be able to to predict sensitivity to future climate changes. More stress ecology research is needed at the frontier between ecotoxicology and ecology, going beyond standardized tests using model species in order to address multiple water quality factors (e.g. pH, temperature, toxicants) and organism health. However, available data allow us to conclude that near-future OA will have negative impact on echinoderm taxa with likely significant consequences at the ecosystem level.",
+            "authors": "Dupont S., Ortega-Martinez O., Thorndyke M.",
+            "group": 6,
+            "id": 38,
+            "name": "21806",
+            "nb": 167,
+            "title1": "Impact of near-future ocean acidification on echinoderms",
+            "title2": "Ecotoxicology",
+            "year": 2010
+        },
+        {
+            "DOI": "10.1038/ngeo1297",
+            "abstract": "Human inputs of nutrients to coastal waters can lead to the excessive production of algae, a process known as eutrophication. Microbial consumption of this organic matter lowers oxygen levels in the water1, 2, 3. In addition, the carbon dioxide produced during microbial respiration increases acidity. The dissolution of atmospheric carbon dioxide in ocean waters also raises acidity, a process known as ocean acidification. Here, we assess the combined impact of eutrophication and ocean acidification on acidity in the coastal ocean, using data collected in the northern Gulf of Mexico and the East China Sea???two regions heavily influenced by nutrient???laden rivers. We show that eutrophication in these waters is associated with the development of hypoxia and the acidification of subsurface waters, as expected. Model simulations, using data collected from the northern Gulf of Mexico, however, suggest that the drop in pH since pre-industrial times is greater than that expected from eutrophication and ocean acidification alone. We attribute the additional drop in pH???of 0.05 units???to a reduction in the ability of these carbon dioxide-rich waters to buffer changes in pH. We suggest that eutrophication could increase the susceptibility of coastal waters to ocean acidification.",
+            "authors": "Cai W., Hu X., Huang W., Murrell M., Lehrter J., Lohrenz S., Chou W., Zhai W., Hollibaugh J., Wang Y., Zhao P., Guo X., Gundersen K., Dai M., Gong G.",
+            "group": 8,
+            "id": 39,
+            "name": "30421",
+            "nb": 163,
+            "title1": "Acidification of subsurface coastal waters enhanced by eutrophication",
+            "title2": "Nature Geoscience",
+            "year": 2011
+        },
+        {
+            "DOI": "10.1007/s00338-008-0380-9",
+            "abstract": "A long-term (10 months) controlled experiment was conducted to test the impact of increased partial pressure of carbon dioxide (pCO2) on common calcifying coral reef organisms. The experiment was conducted in replicate continuous flow coral reef mesocosms flushed with unfiltered sea water from Kaneohe Bay, Oahu, Hawaii. Mesocosms were located in full sunlight and experienced diurnal and seasonal fluctuations in temperature and sea water chemistry characteristic of the adjacent reef flat. Treatment mesocosms were manipulated to simulate an increase in pCO2 to levels expected in this century [midday pCO2 levels exceeding control mesocosms by 365 ?? 130 ?atm (mean ?? sd)]. Acidification had a profound impact on the development and growth of crustose coralline algae (CCA) populations. During the experiment, CCA developed 25% cover in the control mesocosms and only 4% in the acidified mesocosms, representing an 86% relative reduction. Free-living associations of CCA known as rhodoliths living in the control mesocosms grew at a rate of 0.6 g buoyant weight year?1 while those in the acidified experimental treatment decreased in weight at a rate of 0.9 g buoyant weight year?1, representing a 250% difference. CCA play an important role in the growth and stabilization of carbonate reefs, so future changes of this magnitude could greatly impact coral reefs throughout the world. Coral calcification decreased between 15% and 20% under acidified conditions. Linear extension decreased by 14% under acidified conditions in one experiment. Larvae of the coral Pocillopora damicornis were able to recruit under the acidified conditions. In addition, there was no significant difference in production of gametes by the coral Montipora capitata after 6 months of exposure to the treatments.",
+            "authors": "Jokiel P., Rodgers K., Kuffner I., Andersson A., Cox E., Mackenzie F.",
+            "group": 9,
+            "id": 40,
+            "name": "58322",
+            "nb": 161,
+            "title1": "Ocean acidification and calcifying reef organisms: a mesocosm investigation",
+            "title2": "Coral Reefs",
+            "year": 2008
+        },
+        {
+            "DOI": "10.3354/meps07800",
+            "abstract": "The world???s oceans are slowly becoming more acidic. In the last 150 yr, the pH of the oceans has dropped by ~0.1 units, which is equivalent to a 25% increase in acidity. Modelling predicts the pH of the oceans to fall by 0.2 to 0.4 units by the year 2100. These changes will have significant effects on marine organisms, especially those with calcareous skeletons such as echinoderms. Little is known about the possible long-term impact of predicted pH changes on marine invertebrate larval development. Here we predict the consequences of increased CO2 (corresponding to pH drops of 0.2 and 0.4 units) on the larval development of the brittlestar Ophiothrix fragilis, which is a keystone species occurring in high densities and stable populations throughout the shelf seas of northwestern Europe (eastern Atlantic). Acidification by 0.2 units induced 100% larval mortality within 8 d while control larvae showed 70% survival over the same period. Exposure to low pH also resulted in a temporal decrease in larval size as well as abnormal development and skeletogenesis (abnormalities, asymmetry, altered skeletal proportions). If oceans continue to acidify as expected, ecosystems of the Atlantic dominated by this keystone species will be seriously threatened with major changes in many key benthic and pelagic ecosystems. Thus, it may be useful to monitor O. fragilis populations and initiate conservation if needed.",
+            "authors": "Dupont S., Havenhand J., Thorndyke W., Peck L., Thorndyke M.",
+            "group": 19,
+            "id": 41,
+            "name": "34993",
+            "nb": 158,
+            "title1": "Near-future level of CO2-driven ocean acidification radically affects larval survival and development in the brittlestar Ophiothrix fragilis",
+            "title2": "Marine Ecology Progress Series",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1007/s10872-004-5764-z",
+            "abstract": "Rising atmospheric CO2 and deliberate CO2 sequestration in the ocean change seawater carbonate chemistry in a similar way, lowering seawater pH, carbonate ion concentration and carbonate saturation state and increasing dissolved CO2 concentration. These changes affect marine plankton in various ways. On the organismal level, a moderate increase in CO2 facilitates photosynthetic carbon fixation of some phytoplankton groups. It also enhances the release of dissolved carbohydrates, most notably during the decline of nutrient-limited phytoplankton blooms. A decrease in the carbonate saturation state represses biogenic calcification of the predominant marine calcifying organisms, foraminifera and coccolithophorids. On the ecosystem level these responses influence phytoplankton species composition and succession, favouring algal species which predominantly rely on CO2 utilization. Increased phytoplankton exudation promotes particle aggregation and marine snow formation, enhancing the vertical flux of biogenic material. A decrease in calcification may affect the competitive advantage of calcifying organisms, with possible impacts on their distribution and abundance. On the biogeochemical level, biological responses to CO2 enrichment and the related changes in carbonate chemistry can strongly alter the cycling of carbon and other bio-active elements in the ocean. Both decreasing calcification and enhanced carbon overproduction due to release of extracellular carbohydrates have the potential to increase the CO2 storage capacity of the ocean. Although the significance of such biological responses to CO2 enrichment becomes increasingly evident, our ability to make reliable predictions of their future developments and to quantify their potential ecological and biogeochemical impacts is still in its infancy.",
+            "authors": "Riebesell U.",
+            "group": 1,
+            "id": 42,
+            "name": "50668",
+            "nb": 157,
+            "title1": "Effects of CO2 enrichment on marine phytoplankton",
+            "title2": "Journal of Oceanography",
+            "year": 2004
+        },
+        {
+            "DOI": "10.1016/j.ecss.2010.05.004",
+            "abstract": "Puget Sound is a large estuary complex in the U.S. Pacific Northwest that is home to a diverse and economically important ecosystem threatened by anthropogenic impacts associated with climate change, urbanization, and ocean acidification. While ocean acidification has been studied in oceanic waters, little is known regarding its status in estuaries. Anthropogenically acidified coastal waters upwelling along the western North American continental margin can enter Puget Sound through the Strait of Juan de Fuca. In order to study the combined effects of ocean acidification and other natural and anthropogenic processes on Puget Sound waters, we made the first inorganic carbon measurements in this estuary on two survey cruises in February and August of 2008. Observed pH and aragonite saturation state values in surface and subsurface waters were substantially lower in parts of Puget Sound than would be expected from anthropogenic carbon dioxide (CO2) uptake alone. We estimate that ocean acidification can account for 24???49% of the pH decrease in the deep waters of the Hood Canal sub-basin of Puget Sound relative to estimated pre-industrial values. The remaining change in pH between when seawater enters the sound and when it reaches this deep basin results from remineralization of organic matter due to natural or anthropogenically stimulated respiration processes within Puget Sound. Over time, however, the relative impact of ocean acidification could increase significantly, accounting for 49???82% of the pH decrease in subsurface waters for a doubling of atmospheric CO2. These changes may have profound impacts on the Puget Sound ecosystem over the next several decades. These estimates suggest that the role ocean acidification will play in estuaries may be different from the open ocean.",
+            "authors": "Feely R., Alin S., Newton J., Sabine C., Warner M., Devol A., Krembs C., Maloy C.",
+            "group": 6,
+            "id": 43,
+            "name": "9810",
+            "nb": 152,
+            "title1": "The combined effects of ocean acidification, mixing, and respiration on pH and carbonate saturation in an urbanized estuary",
+            "title2": "Estuarine, Coastal and Shelf Science ",
+            "year": 2010
+        },
+        {
+            "DOI": "10.1038/ngeo1441",
+            "abstract": "Ocean acidification, the drop in seawater pH associated with the ongoing enrichment of marine waters with carbon dioxide from fossil fuel burning, may seriously impair marine calcifying organisms. Our present understanding of the sensitivity of marine life to ocean acidification is based primarily on short-term experiments, in which organisms are exposed to increased concentrations of CO2. However, phytoplankton species with short generation times, in particular, may be able to respond to environmental alterations through adaptive evolution. Here, we examine the ability of the world???s single most important calcifying organism, the coccolithophore Emiliania huxleyi, to evolve in response to ocean acidification in two 500-generation selection experiments. Specifically, we exposed E. huxleyi populations founded by single or multiple clones to increased concentrations of CO2. Around 500 asexual generations later we assessed their fitness. Compared with populations kept at ambient CO2 partial pressure, those selected at increased partial pressure exhibited higher growth rates, in both the single- and multiclone experiment, when tested under ocean acidification conditions. Calcification was partly restored: rates were lower under increased CO2 conditions in all cultures, but were up to 50% higher in adapted compared with non-adapted cultures. We suggest that contemporary evolution could help to maintain the functionality of microbial processes at the base of marine food webs in the face of global change.",
+            "authors": "Lohbeck K., Riebesell U., Reusch T.",
+            "group": 7,
+            "id": 44,
+            "name": "6210",
+            "nb": 150,
+            "title1": "Adaptive evolution of a key phytoplankton species to ocean acidification",
+            "title2": "Nature Geoscience",
+            "year": 2012
+        },
+        {
+            "DOI": "10.1038/nature10295",
+            "abstract": "About one-third of the carbon dioxide (CO2) released into the atmosphere as a result of human activity has been absorbed by the oceans, where it partitions into the constituent ions of carbonic acid. This leads to ocean acidification, one of the major threats to marine ecosystems and particularly to calcifying organisms such as corals, foraminifera and coccolithophores. Coccolithophores are abundant phytoplankton that are responsible for a large part of modern oceanic carbonate production. Culture experiments investigating the physiological response of coccolithophore calcification to increased CO2 have yielded contradictory results between and even within species. Here we quantified the calcite mass of dominant coccolithophores in the present ocean and over the past forty thousand years, and found a marked pattern of decreasing calcification with increasing partial pressure of CO2 and concomitant decreasing concentrations of CO3. Our analyses revealed that differentially calcified species and morphotypes are distributed in the ocean according to carbonate chemistry. A substantial impact on the marine carbon cycle might be expected upon extrapolation of this correlation to predicted ocean acidification in the future. However, our discovery of a heavily calcified Emiliania huxleyi morphotype in modern waters with low pH highlights the complexity of assemblage-level responses to environmental forcing factors.",
+            "authors": "Beaufort L., Probert I., de Garidel-Thoron T., Bendif E., Ruiz-Pino D., Metzl N., Goyet C., Buchet N., Coupel P., Grelaud M., Rost B., Rickaby R., de Vargas C.",
+            "group": 17,
+            "id": 45,
+            "name": "32022",
+            "nb": 150,
+            "title1": "Sensitivity of coccolithophores to carbonate chemistry and ocean acidification",
+            "title2": "Nature",
+            "year": 2011
+        },
+        {
+            "DOI": "10.1073/pnas.1004519107",
+            "abstract": "There is increasing concern that ocean acidification, caused by the uptake of additional CO2 at the ocean surface, could affect the functioning of marine ecosystems; however, the mechanisms by which population declines will occur have not been identified, especially for noncalcifying species such as fishes. Here, we use a combination of laboratory and field-based experiments to show that levels of dissolved CO2 predicted to occur in the ocean this century alter the behavior of larval fish and dramatically decrease their survival during recruitment to adult populations. Altered behavior of larvae was detected at 700 ppm CO2, with many individuals becoming attracted to the smell of predators. At 850 ppm CO2, the ability to sense predators was completely impaired. Larvae exposed to elevated CO2 were more active and exhibited riskier behavior in natural coral-reef habitat. As a result, they had 5???9 times higher mortality from predation than current-day controls, with mortality increasing with CO2 concentration. Our results show that additional CO2 absorbed into the ocean will reduce recruitment success and have far-reaching consequences for the sustainability of fish populations.",
+            "authors": "Munday P., Dixson D., McCormick M., Meekan M., Ferrari M., Chivers D.",
+            "group": 15,
+            "id": 46,
+            "name": "75537",
+            "nb": 149,
+            "title1": "Replenishment of fish populations is threatened by ocean acidification",
+            "title2": "Proceedings of the National Academy of Sciences U.S.A",
+            "year": 2010
+        },
+        {
+            "DOI": "10.1029/2008GL036282",
+            "abstract": "Calcification rates in stony corals are expected to decline significantly in the near future due to ocean acidification. In this study we provide a global estimate of the decline in calcification of coral reefs as a result of increase in sea surface temperature and partial pressure of CO2. This estimate, unlike previously reported estimates, is based on an empirical rate law developed from field observations for gross community calcification as a function of aragonite degree of saturation (??arag), sea surface temperature and live coral cover. Calcification rates were calculated for more than 9,000 reef locations using model values of ??arag and sea surface temperature at different levels of atmospheric CO2. The maps we produced show that by the time atmospheric partial pressure of CO2 will reach 560 ppm all coral reefs will cease to grow and start to dissolve. ",
+            "authors": "Silverman J., Lazar B., Cao L., Caldeira K., Erez J.",
+            "group": 4,
+            "id": 47,
+            "name": "82975",
+            "nb": 148,
+            "title1": "Coral reefs may start dissolving when atmospheric CO2 doubles",
+            "title2": "Geophysical Research Letters",
+            "year": 2009
+        },
+        {
+            "DOI": "10.1126/science.1137094",
+            "abstract": "Anthropogenic-driven accumulation of carbon dioxide in the atmosphere and projected ocean acidification have raised concerns regarding the eventual impact on coral reefs. This study demonstrates that skeleton-producing corals grown in acidified experimental conditions are able to sustain basic life functions, including reproductive ability, in a sea anemone-like form and will resume skeleton building when reintroduced to normal modern marine conditions. These results support the existence of physiological refugia, allowing corals to alternate between nonfossilizing soft-body ecophenotypes and fossilizing skeletal forms in response to changes in ocean chemistry. This refugia, however, does not undermine the threats to reef ecosystems in a high carbon dioxide world.",
+            "authors": "Fine M., Tchernov D.",
+            "group": 3,
+            "id": 48,
+            "name": "80049",
+            "nb": 144,
+            "title1": "Scleractinian coral species survive and recover from decalcification",
+            "title2": "Science ",
+            "year": 2007
+        },
+        {
+            "DOI": "10.3354/meps07639",
+            "abstract": "Future anthropogenic emission of CO2 and resulting ocean acidification may have severe consequences for marine calcifying organisms and ecosystems. Marine calcifiers depositing calcitic hard-parts containing significant magnesium concentration, i.e., Mg-calcite, and calcifying organisms living in high latitude and/or cold water environments are at immediate risk to ocean acidification and decreasing seawater carbonate saturation state because they are currently immersed in seawater just slightly supersaturated with respect to the carbonate phases they secrete. Under a business-as-usual CO2 emission scenario, model calculations show that high latitude ocean waters could reach undersaturation with respect to aragonite in just a few decades. Thus, these waters will be undersaturated with respect to Mg-calcite minerals of higher solubility than aragonite before this time. Similarly, tropical surface seawater could become undersaturated with respect to Mg-calcite minerals containing 12 mol% MgCO3 and higher during the present century. As a result of these changes in surface seawater chemistry and further penetration of anthropogenic CO2 into the ocean interior, we suggest that the magnesium content of calcitic hard parts will decrease in many ocean environments, the relative proportion of calcifiers depositing stable carbonate minerals, such as calcite and low Mg-calcite, will increase, and the average magnesium content of carbonate sediments will decrease. Furthermore, the highest latitude and deepest depth at which cold water corals and other calcifiers currently exist will move towards lower latitudes and shallower depth, respectively. These changes suggest that anthropogenic emissions of CO2 may be currently pushing the oceans towards an episode characteristic of a ???calcite sea.???",
+            "authors": "Andersson A., Mackenzie F., Bates N.",
+            "group": 14,
+            "id": 49,
+            "name": "90349",
+            "nb": 138,
+            "title1": "Life on the margin: implications of ocean acidification on Mg-calcite, high latitude and cold water marine calcifiers",
+            "title2": "Marine Ecology Progress Series",
+            "year": 2008
+        }
+    ]
+}
